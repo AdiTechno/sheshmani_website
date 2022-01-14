@@ -1,0 +1,118 @@
+.head{
+ 
+  
+    height: 50px;
+    background-color: black;
+    color: white;
+   text-align: right;
+  }
+p{
+    padding-top: 10px;
+  padding-right: 30px;
+}
+.logo{
+ 
+      height: 100px;
+    background-color: rgb(86, 131, 182);
+    color: white;
+}
+.navv{
+    
+     color: white;
+    padding: 30px 20px;
+    }
+    .menu a{
+       
+        float: left;
+        color: white;
+    }
+  .banner{
+     float: left;
+  }  
+  .prod{
+    margin-top: 150px;
+    height: 75px;
+    background-color: #CEF1FC;
+    font-family: Calibri;
+    
+  }
+  .cute-theme {
+    background-color: #CEF1FC;
+    font-family: Calibri;
+}
+  .codehim-menu {
+    font-family: FontAwesome;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 10px;
+    transition: .3s;
+    z-index: 9999;
+}
+  ul.codehim-menu {
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+}
+
+.codehim-more > li, .codehim-menu > li {
+    display: inline;
+    margin: 0;
+    
+}
+.cute-theme li a {
+    color: #333;
+    text-decoration: none;
+}
+.cute-theme a:hover {
+    color: rgb(167, 20, 20);
+    background-color: rgb(75, 160, 163);
+ }
+.cute-theme li:hover {
+    background-color: rgb(75, 160, 163);
+ }
+.circle{
+      
+       height: 100px;
+       width: 100px;
+       border-radius: 50%;
+       border-color:rgb(86, 131, 182);
+       border-style: solid ;
+       border-width: 4px;
+       margin: auto;
+       text-align: center;
+       justify-content: center;
+       align-items: center;
+       padding-top: 25px;
+ }
+    
+.ban{
+          height: 360px;
+      background-color: rgb(216, 217, 218);
+ }
+.section-heading {
+      float: left;
+      display: inline;
+            
+  }  
+.section-heading h3,h4{
+          font-family: 'Raleway';
+         color: #B56006;
+         font-weight: bold;
+ } 
+.media-icon{
+          color: rgb(86, 131, 182);
+ }
+.media-icon:hover {
+          color: #fff;
+ }   
+.ho{
+         text-decoration: none;       
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+               
+ } 
+.ho:hover{
+        color: #333;
+  }     
+        
+    
